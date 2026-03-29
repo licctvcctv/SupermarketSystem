@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Mk4y1Q7kU
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的网上超市系统，可以给管理员、普通用户角色使用，分为管理后台和用户网页端，包括商品类型模块、商品档案模块、商品资讯模块、商品订单模块、用户管理模块和系统基础模块，项目编号T037。
 
